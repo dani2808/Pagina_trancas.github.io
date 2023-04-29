@@ -1,0 +1,71 @@
+
+th{
+    padding: 15px;
+    background-color: rgba(170, 141, 248, 0.534);
+    color: black;
+}
+
+td{
+    background-color: rgba(170, 141, 248, 0.5);
+    text-align: center;
+}
+
+table{
+    border: 5px solid rgba(253, 163, 163, 0.925);
+    border-collapse: collapse; /* Define o colapso das bordas */
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 10;
+    
+}
+
+
+
+.link-box {
+    display: inline-block;
+    padding: 8px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    background-color: #f2f2f2;
+    margin: 30px;
+  }
+  
+  .link-box a {
+    text-decoration: none;
+    color: #333;
+  }
+
+  h1 {
+    font-size: 40px; 
+    font-family: Lucida Sans Regular; 
+    font-weight: bold;
+    color: #444; 
+    text-align: center; 
+    margin-top: 50px; 
+    text-shadow: 2px 2px 2px #ccc; 
+  }
+
+  p {
+    font-size: 20px; 
+    font-family: 'Times New Roman', Times, serif; 
+    line-height: 1.5; 
+    color: #333; 
+    margin-bottom: 10px; 
+    text-align: justify; 
+    margin: 30px;
+  }
+ h4{
+    margin: 20px;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #333;
+    text-shadow: 2px 2px 2px #ccc;
+ }
+
+ img {
+    border-radius: 10%;
+    margin: 10px;
+  }
+  a{
+    margin: 30px;
+  }
